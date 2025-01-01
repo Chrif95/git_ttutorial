@@ -1,0 +1,7 @@
+#I need to impliment this
+def add(x,y):
+  returne None 
+
+#Bob needs to implements this
+def multi(x,y):
+  return None
